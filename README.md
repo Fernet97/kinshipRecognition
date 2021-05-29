@@ -14,4 +14,4 @@
 
 **CheckIfRelative** ➡️ rete che riconosce l'esistenza di parentela tra due volti.
 
-**IgnotiRecognitionPrimaRete** carica i pesi della rete CheckIfRelative e riconosce l'esistenza di parentela tra gli 8 candidati di una puntata dei *Soliti Ignoti*
+**IgnotiRecognitionPrimaRete** ➡️ carica i pesi della rete CheckIfRelative e riconosce l'esistenza di parentela tra gli 8 candidati di una puntata dei *Soliti Ignoti*
