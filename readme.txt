@@ -1,0 +1,5 @@
+- Densenet2classi: problema sul riconoscimento della parentela
+- Densenet4classi: problema sul riconoscimento del tipo di parentela
+- estraiIgnoti: estrazione volti dalle puntate dei Soliti Ignoti
+- IgnotiRecognitionPrimaRete: riconoscimento parentela per i Soliti Ignoti  
+- IgnotiRecognitionSecondaRete: riconoscimento tipo parentela per i Soliti Ignoti
